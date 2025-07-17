@@ -1,5 +1,8 @@
 # Saiket Internship Projects
 
+<img width="1089" height="614" alt="image" src="https://github.com/user-attachments/assets/f0f7ac7d-e10b-4b5e-bca4-87084fb94873" />
+
+
 This repository contains a collection of mini projects developed during my software development internship at **Saiket Systems**.
 
 ### Projects Included
