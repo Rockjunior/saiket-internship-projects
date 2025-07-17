@@ -3,7 +3,7 @@
 <img width="1089" height="614" alt="image" src="https://github.com/user-attachments/assets/f0f7ac7d-e10b-4b5e-bca4-87084fb94873" />
 
 Here are the requirement for the projects:
-📄 [View Internship Tasks (PDF)](Tasks/software Development Task.pdf)
+📄 [View Internship Tasks (PDF)](Tasks/software_Development_Task.pdf)
 
 This repository contains a collection of mini projects developed during my software development internship at **Saiket Systems**.
 
